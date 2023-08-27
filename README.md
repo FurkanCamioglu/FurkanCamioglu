@@ -1,4 +1,4 @@
-![MasterHead](https://techworldtimes.com/wp-content/uploads/2020/10/QA-Assets.png)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/01/36/51/44/1000_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Furkan Camioglu</h1>
 <h3 align="center">A tester who is always a student, from Canada...</h3>
 
